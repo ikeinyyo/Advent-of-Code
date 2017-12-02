@@ -4,7 +4,8 @@
 
 ## Days
 
-* Day 1: [InverseCaptcha](./InverseCaptcha)
+* Day 1: [Inverse Captcha](./InverseCaptcha)
+* Day 2: [Corruption Checksum](./CorruptionChecksum)
 
 ## Credits
 
