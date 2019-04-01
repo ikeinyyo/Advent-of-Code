@@ -4,11 +4,10 @@
 
 ## Days
 
-* Day 1: [Inverse Captcha](./InverseCaptcha)
-* Day 2: [Corruption Checksum](./CorruptionChecksum)
+- Day 1: [Chronal Calibration](./01-ChronalCalibration)
 
 ## Credits
 
-* Design & Code: [Eric Wastl](https://twitter.com/ericwastl)
-* Beta Testing: [Tim Giannetti](https://twitter.com/Sr_Giannetti), Ben Lucek, and [JP Burke](https://twitter.com/yatpay)
-* Community Managers: [Danielle Lucek](https://www.reddit.com/user/daggerdragon) and [Aneurysm9](https://twitter.com/Aneurysm9)
+- Design & Code: [Eric Wastl](https://twitter.com/ericwastl)
+- Beta Testing: [Tim Giannetti](https://twitter.com/Sr_Giannetti), Ben Lucek, and [JP Burke](https://twitter.com/yatpay)
+- Community Managers: [Danielle Lucek](https://www.reddit.com/user/daggerdragon) and [Aneurysm9](https://twitter.com/Aneurysm9)
