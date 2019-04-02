@@ -5,6 +5,7 @@
 ## Days
 
 - Day 1: [Chronal Calibration](./01-ChronalCalibration)
+- Day 2: [Inventory Management System](./02-InventoryManagementSystem)
 
 ## Credits
 
