@@ -6,6 +6,7 @@
 
 - Day 1: [Chronal Calibration](./01-ChronalCalibration)
 - Day 2: [Inventory Management System](./02-InventoryManagementSystem)
+- Day 3: [No Matter How You Slice It](./03-NoMatterHowYouSliceIt)
 
 ## Credits
 
