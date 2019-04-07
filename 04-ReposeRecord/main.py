@@ -4,7 +4,8 @@ part_two_input = "data/input.txt"
 
 def parse(line):
     tokens = line.split(' ')
-    print("{} - {}: {} {}".format(parse_date(tokens), parse_id(tokens), parse_time(tokens), parse_status(tokens)))
+    return {'date': parse_date(tokens), 'id': parse_id(tokens),
+    'time': parse_time(tokens), 'status': parse_status(tokens)}
 
 def parse_date(tokens):
     return tokens[0][1:].replace('-', '')
@@ -21,8 +22,11 @@ def parse_status(tokens):
     return 1 if tokens[2] == 'falls' else 0
 
 def part_one():
+    logs = []
     for line in open(part_one_input):
-        parse(line)
+        logs.append(parse(line))
+    logs.sort(key=lambda log: (log['date'], log['time']))
+    print(logs)
     print("Day 4")
 
 def main():
